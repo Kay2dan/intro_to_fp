@@ -1,0 +1,1 @@
+f ls = take length( ls )
